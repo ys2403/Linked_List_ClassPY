@@ -3,9 +3,9 @@ class node:
 	 	self.data = data
 	 	self.ref  = None
 
-# class linkedlist:
-# 	def __init__(self) :
-# 		self.head = None
+class linkedlist:
+	def __init__(self) :
+ 		self.head = None
 
 # 	def trav_ll (self):				# Traversal of LL
 	
