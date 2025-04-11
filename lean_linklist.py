@@ -1,5 +1,5 @@
 class node:
-	 def __init__ (self, data): # Create a node
+	def __init__ (self, data): # Create a node
 	 	self.data = data
 	 	self.ref  = None
 
