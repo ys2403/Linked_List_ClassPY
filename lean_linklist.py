@@ -17,10 +17,10 @@ class linkedlist:
 				print(n.data,"--->", end = " ")
 				n = n.ref
 		
-# 	def add_beg(self, data):		# add node at start
-# 		new_node = node(data)
-# 		new_node.ref = self.head
-# 		self.head = new_node
+ 	def add_beg(self, data):		# add node at start
+ 		new_node = node(data)
+ 		new_node.ref = self.head
+ 		self.head = new_node
 
 # 	def add_end (self,data):		# add node at end
 # 		new_node = node(data)
